@@ -3,7 +3,7 @@
 
 ... OWNERS' GITHUBS <br />
 René Adam-Richer: https://github.com/Radamnation?tab=repositories <br />
-Sébastien Lévesque: https://github.com/SebastienLevesque?tab=repositories <br />
+Sébastien Lévesque: https://github.com/BehaviouralAffinityStudio?tab=repositories <br />
 
 
 [Project Doomlike] <br />
